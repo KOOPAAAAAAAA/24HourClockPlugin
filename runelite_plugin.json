@@ -1,0 +1,7 @@
+{
+  "name": "24 Hour Clock",
+  "description": "A plugin that displays a movable overlay clock showing the current hour and minute.",
+  "author": "KOOPAAAAAAAA",
+  "version": "1.0",
+  "tags": ["clock", "time", "24"]
+}
